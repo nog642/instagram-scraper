@@ -2,7 +2,6 @@
 
 Instagram Scraper
 =================
-[![PyPI](https://img.shields.io/pypi/v/instagram-scraper.svg)](https://pypi.python.org/pypi/instagram-scraper) [![Build Status](https://travis-ci.com/arc298/instagram-scraper.svg?branch=master)](https://travis-ci.com/arc298/instagram-scraper) ![PyPI - Implementation](https://img.shields.io/pypi/implementation/instagram-scraper) ![PyPI - Wheel](https://img.shields.io/pypi/wheel/instagram-scraper) [![#Donations](https://img.shields.io/badge/%E2%9D%A4-Donate-red)](#donations)
 
 instagram-scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
 
@@ -10,6 +9,9 @@ instagram-scraper is a command-line application written in Python that scrapes a
 
 Install
 -------
+
+Note: these instructions don't work anymore because the pypi package is was deleted by the original owner. This is a fork.
+
 To install instagram-scraper:
 ```bash
 $ pip install instagram-scraper
@@ -292,11 +294,3 @@ IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
-## Donations
-Crypto
-
-|       Coin        | Network |                   Address                    |                     QR                      |
-|:-----------------:|:-------:|:--------------------------------------------:|:-------------------------------------------:|
-| BNB Beacon Chain  |  BEP2   |  bnb1yddaswq67g3ul35j97sx4ye4g6r0aukfcz406d  | ![BNB](/donations_qr/BNB_Beacon_Chain.png)  |
-|  BNB Smart Chain  |  BEP20  | 0x68a7F5E356602349a181BbE89b247D00dbD8F2af   |  ![BNB](/donations_qr/BNB_Smart_Chain.png)  |
